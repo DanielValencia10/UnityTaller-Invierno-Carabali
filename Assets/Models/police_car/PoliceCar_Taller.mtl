@@ -1,0 +1,21 @@
+newmtl body
+Kd 0.8 0.8 0.8
+
+newmtl brake
+Kd 0.8 0.8 0.8
+
+newmtl glass
+Kd 0.8 0.8 0.8
+
+newmtl interior
+Kd 0.8 0.8 0.8
+
+newmtl roof_light_bar
+Kd 0.8 0.8 0.8
+
+newmtl roof_lights
+Kd 0.8 0.8 0.8
+
+newmtl wheel
+Kd 0.8 0.8 0.8
+
