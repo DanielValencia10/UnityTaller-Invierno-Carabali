@@ -19,3 +19,6 @@ Kd 0.8 0.8 0.8
 newmtl wheel
 Kd 0.8 0.8 0.8
 
+newmtl exhaust
+Kd 0.2 0.2 0.2
+
